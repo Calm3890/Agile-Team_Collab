@@ -94,6 +94,7 @@
             this.txtboxPrice.Name = "txtboxPrice";
             this.txtboxPrice.Size = new System.Drawing.Size(124, 20);
             this.txtboxPrice.TabIndex = 5;
+            this.txtboxPrice.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtboxPrice_KeyPress);
             // 
             // dataGridView1
             // 
@@ -173,6 +174,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form_tambah";
             this.Text = "Form Tambah";
+            this.Load += new System.EventHandler(this.Form_tambah_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

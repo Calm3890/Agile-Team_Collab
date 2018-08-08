@@ -27,6 +27,9 @@ namespace Agile_Team_Collab
             InitializeComponent();
             dataGridView1.AutoGenerateColumns = false;
             listBarang = new List<Add>();
+            dataGridView1.Columns[0].DataPropertyName = "Code";
+            dataGridView1.Columns[1].DataPropertyName = "Name";
+            dataGridView1.Columns[2].DataPropertyName = "Price";
         }
 
 
@@ -49,8 +52,6 @@ namespace Agile_Team_Collab
             else
             {
                 dataGridView1.DataSource = null;
-                
-
                 listBarang.Add( new Add
                 {
                     Code = txtboxCode.Text,
@@ -59,12 +60,9 @@ namespace Agile_Team_Collab
                 });
 
                 dataGridView1.DataSource = listBarang;
-                dataGridView1.Columns[0].DataPropertyName = "Code";
-                dataGridView1.Columns[1].DataPropertyName = "Name";
-                dataGridView1.Columns[2].DataPropertyName = "Price";
-                txtboxCode.Clear();
                 txtboxName.Clear();
-                txtboxPrice.Clear();             
+                txtboxPrice.Clear();
+                txtboxCode.Text = $"{(Int32.Parse(txtboxCode.Text) + 1).ToString("000")}";
             }
         }
 
@@ -82,6 +80,31 @@ namespace Agile_Team_Collab
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, this.Text, MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void Form_tambah_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                txtboxCode.Text = new AddDAO().GetKodeBarangBerikutnya();
+                txtboxName.Focus();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, this.Text, MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void txtboxPrice_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsNumber(e.KeyChar) || e.KeyChar == (char)8)
+            {
+                e.Handled = false;
+            }
+            else
+            {
+                e.Handled = true;
             }
         }
     }

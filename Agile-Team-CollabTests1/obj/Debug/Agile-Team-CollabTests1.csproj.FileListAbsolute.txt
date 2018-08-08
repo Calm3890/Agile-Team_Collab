@@ -1,0 +1,17 @@
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Agile-Team-CollabTests1.dll
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Agile-Team-CollabTests1.pdb
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Penjualan.exe
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Penjualan.pdb
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Penjualan.exe.config
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\obj\Debug\Agile-Team-CollabTests1.csprojAssemblyReference.cache
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\obj\Debug\Agile-Team-CollabTests1.csproj.CoreCompileInputs.cache
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\obj\Debug\Agile-Team-CollabTests1.csproj.CopyComplete
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\obj\Debug\Agile-Team-CollabTests1.dll
+D:\UPH\Semes 3\Agile\Agile-Team-CollabTests1\obj\Debug\Agile-Team-CollabTests1.pdb
