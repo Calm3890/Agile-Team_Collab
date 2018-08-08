@@ -108,6 +108,155 @@ namespace Agile_Team_Collab
             return list;
         }
 
+        public int Delete(string code)
+        {
+            int result = 0;
+            SqlTransaction trans = null;
+            try
+            {
+                trans = _conn.BeginTransaction();
+                using (SqlCommand cmd = new SqlCommand())
+                {
+                    cmd.Connection = _conn;
+                    cmd.Transaction = trans;
+                    cmd.CommandText = @"delete barang where code = @code";
+                    cmd.Parameters.Clear();
+                    cmd.Parameters.AddWithValue("@code",code);
+                    result = cmd.ExecuteNonQuery();
+                }
+                trans.Commit();
+            }
+            catch (Exception ex)
+            {
+                if (trans != null) trans.Rollback();
+                throw ex;
+            }
+            finally
+            {
+                if (trans != null) trans.Dispose();
+            }
+            return result;
+        }
+
+        public List<Add> QueryDataBarang(Add add)
+        {
+            List<Add> listadd = null;
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand())
+                {
+                    cmd.Connection = _conn;
+                    if (add == null)
+                    {
+                        cmd.CommandText =
+                            @"select * from Barang order by code";
+                    }
+                    else
+                    {
+                        cmd.CommandText =
+                            @"select b.* from barang b 
+                                where b.code like @code and b.name like @name and
+                                b.price like @price
+                                order by code";
+                        cmd.Parameters.Clear();
+                        cmd.Parameters.AddWithValue("@Code", $"%{add.Code}%");
+                        cmd.Parameters.AddWithValue("@Name", $"%{add.Name}%");
+                        cmd.Parameters.AddWithValue("@Price", $"%{add.Price}%");
+                    }
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.HasRows)
+                        {
+                            listadd = new List<Add>();
+                            while (reader.Read())
+                            {
+                                listadd.Add(
+                                    new Add
+                                    {
+                                        Code = reader["code"].ToString(),
+                                        Name = reader["name"].ToString(),
+                                        Price = Convert.ToInt32(reader["price"])
+                                    });
+                            }
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return listadd;
+        }
+
+        public Add GetDataAddByKode(string add)
+        {
+            Add result = null;
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand())
+                {
+                    cmd.Connection = _conn;
+                    cmd.CommandText = @"select * from barang Where code = @code";
+                    cmd.Parameters.Clear();
+                    cmd.Parameters.AddWithValue("@code", add);
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.HasRows)
+                        {
+                            if (reader.Read())
+                            {
+                                result = new Add
+                                {
+                                    Code = reader["Code"].ToString(),
+                                    Name = reader["Name"].ToString(),
+                                    Price = Convert.ToInt32(reader["Price"])
+                                };
+                            }
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return result;
+        }
+
+        public int Update(Add add)
+        {
+            int result = 0;
+            SqlTransaction trans = null;
+            try
+            {
+                trans = _conn.BeginTransaction();
+                using (SqlCommand cmd = new SqlCommand())
+                {
+                    cmd.Connection = _conn;
+                    cmd.Transaction = trans;
+                    cmd.CommandText = @"update barang set code = @code, name = @name,
+                        price = @price where code = @code";
+                    cmd.Parameters.Clear();
+                    cmd.Parameters.AddWithValue("@code", add.Code);
+                    cmd.Parameters.AddWithValue("@name", add.Name);
+                    cmd.Parameters.AddWithValue("@price", add.Price);
+                    result = cmd.ExecuteNonQuery();
+                }
+                trans.Commit();
+            }
+            catch (Exception ex)
+            {
+                if (trans != null) trans.Rollback();
+                throw ex;
+            }
+            finally
+            {
+                if (trans != null) trans.Dispose();
+            }
+            return result;
+        }
+
         public void Dispose()
         {
             if (_conn != null) _conn.Close();

@@ -48,7 +48,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label1.Location = new System.Drawing.Point(38, 52);
+            this.label1.Location = new System.Drawing.Point(4, 45);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(60, 25);
             this.label1.TabIndex = 0;
@@ -58,7 +58,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label2.Location = new System.Drawing.Point(38, 116);
+            this.label2.Location = new System.Drawing.Point(0, 103);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(64, 25);
             this.label2.TabIndex = 1;
@@ -68,7 +68,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label3.Location = new System.Drawing.Point(34, 178);
+            this.label3.Location = new System.Drawing.Point(4, 163);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(56, 25);
             this.label3.TabIndex = 2;
@@ -76,24 +76,27 @@
             // 
             // txtboxCode
             // 
-            this.txtboxCode.Location = new System.Drawing.Point(117, 58);
+            this.txtboxCode.Location = new System.Drawing.Point(78, 51);
             this.txtboxCode.Name = "txtboxCode";
+            this.txtboxCode.ReadOnly = true;
             this.txtboxCode.Size = new System.Drawing.Size(124, 20);
             this.txtboxCode.TabIndex = 3;
+            this.txtboxCode.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtboxCode_KeyPress);
             // 
             // txtboxName
             // 
-            this.txtboxName.Location = new System.Drawing.Point(117, 120);
+            this.txtboxName.Location = new System.Drawing.Point(78, 109);
             this.txtboxName.Name = "txtboxName";
             this.txtboxName.Size = new System.Drawing.Size(124, 20);
             this.txtboxName.TabIndex = 4;
             // 
             // txtboxPrice
             // 
-            this.txtboxPrice.Location = new System.Drawing.Point(117, 184);
+            this.txtboxPrice.Location = new System.Drawing.Point(78, 169);
             this.txtboxPrice.Name = "txtboxPrice";
             this.txtboxPrice.Size = new System.Drawing.Size(124, 20);
             this.txtboxPrice.TabIndex = 5;
+            this.txtboxPrice.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtboxPrice_KeyPress);
             // 
             // dataGridView1
             // 
@@ -102,9 +105,9 @@
             this.dgvCode,
             this.dgvName,
             this.dgvPrice});
-            this.dataGridView1.Location = new System.Drawing.Point(295, 52);
+            this.dataGridView1.Location = new System.Drawing.Point(246, 15);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(719, 375);
+            this.dataGridView1.Size = new System.Drawing.Size(532, 335);
             this.dataGridView1.TabIndex = 6;
             // 
             // dgvCode
@@ -125,7 +128,7 @@
             // btn_add
             // 
             this.btn_add.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.btn_add.Location = new System.Drawing.Point(8, 247);
+            this.btn_add.Location = new System.Drawing.Point(17, 222);
             this.btn_add.Name = "btn_add";
             this.btn_add.Size = new System.Drawing.Size(90, 39);
             this.btn_add.TabIndex = 7;
@@ -136,7 +139,7 @@
             // btnCancel
             // 
             this.btnCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.btnCancel.Location = new System.Drawing.Point(187, 247);
+            this.btnCancel.Location = new System.Drawing.Point(141, 222);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(90, 39);
             this.btnCancel.TabIndex = 8;
@@ -147,7 +150,7 @@
             // btnSave
             // 
             this.btnSave.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.btnSave.Location = new System.Drawing.Point(97, 304);
+            this.btnSave.Location = new System.Drawing.Point(78, 287);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(90, 39);
             this.btnSave.TabIndex = 9;
@@ -159,7 +162,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1055, 461);
+            this.ClientSize = new System.Drawing.Size(790, 362);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btn_add);

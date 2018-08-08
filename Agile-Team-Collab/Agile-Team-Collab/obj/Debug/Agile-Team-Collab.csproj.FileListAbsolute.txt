@@ -48,3 +48,103 @@ D:\Kuliah\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-
 D:\Kuliah\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-Team-Collab.csproj.CopyComplete
 D:\Kuliah\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.exe
 D:\Kuliah\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.pdb
+<<<<<<< HEAD
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\Penjualan.exe.config
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\Penjualan.exe
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\Penjualan.pdb
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Data.v17.1.xml
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-Team-Collab.csprojAssemblyReference.cache
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile_Team_Collab.Form_tambah.resources
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile_Team_Collab.Login.resources
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile_Team_Collab.Main.resources
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.Properties.Resources.resources
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-Team-Collab.csproj.GenerateResource.cache
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.exe.licenses
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-Team-Collab.csproj.CoreCompileInputs.cache
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-Team-Collab.csproj.CopyComplete
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.exe
+D:\GIT\PortableGit\Agile-Team_Collab\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.pdb
+=======
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\Penjualan.exe.config
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\Penjualan.exe
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\Penjualan.pdb
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Data.v17.1.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Data.v17.1.xml
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-Team-Collab.csprojAssemblyReference.cache
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile_Team_Collab.Form_tambah.resources
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile_Team_Collab.Login.resources
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile_Team_Collab.Main.resources
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.Properties.Resources.resources
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-Team-Collab.csproj.GenerateResource.cache
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.exe.licenses
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-Team-Collab.csproj.CoreCompileInputs.cache
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile-Team-Collab.csproj.CopyComplete
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.exe
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Penjualan.pdb
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile_Team_Collab.FormEdit.resources
+D:\UPH\Semes 3\Agile\Agile final\Agile-Team-Collab\Agile-Team-Collab\obj\Debug\Agile_Team_Collab.FrmEditDataBarang.resources
+>>>>>>> 94abe3f5238b623a9a0b5bae9ae829e91b26dfe6
