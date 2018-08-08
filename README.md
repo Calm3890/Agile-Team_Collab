@@ -4,9 +4,9 @@
                : Sir. Des Dulianto
                  
  ### Member :
-    Scrum Master : Vielbert Victorio
-    Team Development : Fermin Andre Wirawan
-                     : Robin Ray
+    Scrum Master : Vielbert Victorio (03082170017)
+    Team Development : Fermin Andre Wirawan(03082170018)
+                     : Robin Ray (03082170011)
                      
  #### BackLog : 1.	User dapat memasukkan daftar harga barang (dalam bentuk list)
                     1.1	User dapat menambah produk baru
